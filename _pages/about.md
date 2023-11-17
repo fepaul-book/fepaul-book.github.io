@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a student at Johannes Gutenberg University Mainz. I have a Bachelor degree in computer science and mathematics and am currently writing my master thesis on the topic FHE.
 
-
+<!---
 #I work as a Post-Doc in the Data Mining group at Johannes Gutenberg-Universität Mainz, under the guidance of #[Prof. Stefan Kramer](https://www.datamining.informatik.uni-mainz.de/stefan-kramer/). I am a Principal #Investigator for the TOP-ML project, which deals with understanding the trade-offs between properties of #machine learning algorithms beyond performance. Before that, I was a PhD. student in the Machine Learning #Group at University of Torino, my hometown. [Prof. Roberto Esposito](http://informatica.unito.it/do/#docenti.pl/Alias?roberto.esposito#tab-profilo) was my advisor for three years.
 
 #My research interests are centered around deep neural networks - I mostly research algorithms to constrain and #understand them better. I have published papers about algorithmic fairness, interpretability and connections #between them. I care deeply about making sure that AI applications can be beneficial to everyone - or at least #not harm anybody.
@@ -35,3 +35,4 @@ I am a student at Johannes Gutenberg University Mainz. I have a Bachelor degree 
 #Put your address / P.O. box / other info right below your picture. You can also disable any of these elements #by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` #and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://#fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones #below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+-->
