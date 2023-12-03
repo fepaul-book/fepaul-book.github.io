@@ -1,28 +1,25 @@
 ---
 layout: page
-title: Codenight
-description: Development and realisation of programming days at a grammar school.
-img: assets/img/lion.jpg
-importance: 2
-category: education
-related_publications: 
+title: project 3
+description: a project that redirects to another website
+img: assets/img/7.jpg
+redirect: https://unsplash.com
+importance: 3
+category: work
 ---
 
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
 
-In March 2022, I took over the programming day called Codenight at Nieder-Olm secondary school.
-[Codenight-Website](https://fepaul-book.github.io/codenight-book/)
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-I planned and organised a total of 5 different workshops for all age groups.
-For the younger pupils, the basics of programming were explored in a playful way using a visual programming language called Blockly.
-Another workshop involved programming their first website using pure HTML and CSS code. Each pupil was allowed to choose an animal and created a website with videos, photos and Google Maps links based on a template.
-The websites were then finally hosted by me on a large zoo website so that the students could actually access the website from home.
-
-In the intermediate level, both a car race and ping pong were implemented using the block-based programming language Scratch. 
-
-In the upper school, the programming language Python was used to solve Tic Tac Toe and 4 wins using the minimax algorithm.
-
-
-
+    ---
+    layout: page
+    title: project
+    description: a project with a background image
+    img: /assets/img/12.jpg
+    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
