@@ -9,76 +9,61 @@ related_publications:
 ---
 
 
-In March 2022, I took over the programming day called Codenight at Nieder-Olm secondary school.
-[Codenight-Website](https://fepaul-book.github.io/codenight-book/)
+In March 2022, I took over the programming day called [Codenight](https://fepaul-book.github.io/codenight-book/) at Nieder-Olm secondary school. I planned and organised a total of 5 different workshops for all age groups. Feel free to visit the official [Codenight website](https://fepaul-book.github.io/codenight-book/) to take a closer look at the individual workshops.
 
-I planned and organised a total of 5 different workshops for all age groups.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+		<a href="https://fepaul-book.github.io/codenight-book/Blockly.html" target="_blank">
+            {% include figure.html path="assets/img/blockly.png" title="Blockly Website" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+		<a href="https://fepaul-book.github.io/codenight-book/HTML.html" target="_blank">
+            {% include figure.html path="assets/img/tierwelt-small.png" title="programmed zoo website" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+		<a href="https://fepaul-book.github.io/codenight-book/Autorennen.html" target="_blank">
+          {% include figure.html path="assets/img/autorennen.png" title="Autorennen Website" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+		<a href="https://fepaul-book.github.io/codenight-book/Routenplaner.html" target="_blank">
+          {% include figure.html path="assets/img/pingpong.png" title="Ping Pong Website" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+	<div class="col-sm mt-3 mt-md-0">
+		<a href="https://fepaul-book.github.io/codenight-book/Ki.html" target="_blank">
+          {% include figure.html path="assets/img/tic-tac-toe.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+</div>
+
+<div class="caption">
+    Description from left to right: Blockly: programmer games for 5th-6th grade, Zoo website: HTML and CSS for 5th - 8th grade, Car racing in Scratch for 7th - 8th grade, Ping pong in Scratch for 9th - 10th grade, AI in Python for the upper school
+</div>
+
+
 For the younger pupils, the basics of programming were explored in a playful way using a visual programming language called Blockly.
+
 Another workshop involved programming their first website using pure HTML and CSS code. Each pupil was allowed to choose an animal and created a website with videos, photos and Google Maps links based on a template.
-The websites were then finally hosted by me on a large zoo website so that the students could actually access the website from home.
+The websites were then finally hosted by me on a large [zoo website](https://fepaul-book.github.io/tierpark-website/UnsereTierwelt.html) so that the students could actually access the website from home.
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="https://fepaul-book.github.io/tierpark-website/UnsereTierwelt.html" target="_blank">
+            {% include figure.html path="assets/img/tierwelt-small.png" title="Tierwelt Website" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+</div>
+
+<div class="caption">
+    Final website with the students' individual pages. Follow the <a href="https://fepaul-book.github.io/tierpark-website/UnsereTierwelt.html" target="_blank">link to the website</a> and marvel at the students' results.
+</div>
+
 
 In the intermediate level, both a car race and ping pong were implemented using the block-based programming language Scratch. 
 
+
 In the upper school, the programming language Python was used to solve Tic Tac Toe and 4 wins using the minimax algorithm.
-
-
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
