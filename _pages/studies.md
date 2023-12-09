@@ -5,9 +5,12 @@ permalink: /study/
 description: Overview of my academic career.
 nav: true
 nav_order: 2
-display_categories: []
+display_categories: [study]
 horizontal: false
 ---
+
+As mentioned in my CV, I have several degrees. 
+This page is intended to provide an overview of my various qualifications and categorise my achievements.
 
 <!-- pages/projects.md -->
 <div class="projects">

@@ -3,7 +3,7 @@ layout: page
 title: Codenight
 description: Programming days at a grammar school featuring a range of activities, including website programming, game development, and AI programming.
 img: assets/img/lion.jpg
-importance: 2
+importance: 3
 category: programming
 related_publications: 
 ---
