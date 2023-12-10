@@ -9,6 +9,10 @@ display_categories: [sport, vacation]
 horizontal: false
 ---
 
+Here I want to show more about me and what I do in my free time. 
+
+To be continued ...
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}

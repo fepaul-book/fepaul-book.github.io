@@ -4,7 +4,7 @@ title: Bachelor of Science in Mathematics
 description: 
 img: assets/img/bsm.png
 importance: 2
-category: study
+category: degrees
 related_publications: 
 ---
 

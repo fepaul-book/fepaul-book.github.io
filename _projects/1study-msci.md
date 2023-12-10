@@ -4,7 +4,7 @@ title: Master of Science in Computer Science
 description: 
 img: assets/img/msi.png
 importance: 1
-category: study
+category: degrees
 related_publications: 
 ---
 
