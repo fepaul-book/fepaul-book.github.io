@@ -39,4 +39,4 @@ Feel free to download my papers and lecture slides.
 
 - FHE lecture slides for the survey paper (english)  <a href="/assets/pdf/slides-fhe-use-cases-without-notes.pdf" download><i>"Fully Homomorphic Encryption and its Use Cases"</i></a>
 
-- FHE introductory lecture slides (german) <a href="/assets/pdf/slides-fhe-introduction-german.pdf" download><i>"Fully Homomorphic Encryption - KI in der Cloud ohne Datenschutzbedenken"</i></a>
+- FHE introductory lecture slides (german) <a href="/assets/pdf/slides-fhe-introduction-german.pdf" download><i>"Fully Homomorphic Encryption - KI in der Cloud ohne Datenschutzbedenken"</i></a> and  [the code to the lecture]({{ site.url }}/downloads/fhe-presentation.ipynb)
