@@ -3,7 +3,7 @@ layout: page
 title: NECK - Network Construction Kit
 description: Educational website to learn the basics of neuronal networks.
 img: assets/img/neck.png
-importance: 1
+importance: 2
 category: programming
 ---
 

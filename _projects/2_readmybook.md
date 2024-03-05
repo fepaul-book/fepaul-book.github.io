@@ -3,7 +3,7 @@ layout: page
 title: ReadMyBook
 description: Ai-based app with text recognition for reading a children’s book aloud.
 img: assets/img/readmybook-cover.jpg
-importance: 2
+importance: 3
 category: programming
 ---
 
