@@ -135,12 +135,16 @@
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "A1"
     }
   ],
 "interests": [{
     "name": "Sport",
     "keywords": [
-      "soccer", "triathlon", "climbing", "spikeball"
+      "soccer", "triathlon", "climbing", "Salsa"
     ]
   }],
   "references": [],
