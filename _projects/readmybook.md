@@ -8,10 +8,7 @@ category: programming
 ---
 
 
-<video width="640" height="240" controls autoplay>
-  <source src="/assets/video/book-presentation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2dvV22lTHV8?si=37XnDg_DxUG7e-Lm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 The app has been developed as a complement to a children's book by a private friend of mine. The goal of the app is to enable children, especially those with busy parents, to have children's books read to them. The app allows children to independently get the book read aloud from a specific page by scanning it. By scanning designated stickers, users can choose between three reading modes.
