@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CHANGELOG
-permalink: /
+permalink: /CHANGELOG/
 description: Changelog of the website.
 nav: true
 nav_order: 4
