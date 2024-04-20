@@ -3,7 +3,7 @@
     "name": "Felix Peter Paul",
     "label": "computer scientist, mathematician",
     "image": "",
-    "email": "fepaul-job@gmx.de",
+    "email": "fepaul_job@gmx.de",
     "phone": "+49 176 6185 1281",
     "url": "https://fepaul-book.github.io/",
     "summary": "A German-born computer scientist and mathematician.",
@@ -22,6 +22,19 @@
       }
     ]
   },
+"work": [
+    {
+      "name": "Atruvia AG",
+      "position": "Master thesis cooperation",
+      "url": "https://atruvia.de/",
+      "startDate": "2023-08-01",
+      "endDate": "2024-04-30",
+      "summary": "Exploring and explaining Fully Homomorphic Encryption to the company, define and evaluate practical use cases of this cryptographic technique",
+      "highlights": [
+        "Fully Homomorphic Encryption"
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "Johannes Gutenberg University, Mainz, Germany",
@@ -29,9 +42,11 @@
       "area": "Computer Science",
       "studyType": "Master of Science",
       "startDate": "2017-10-01",
-      "endDate": "2024-10-01",
+      "endDate": "2024-06-30",
       "score": "current: 1.0",
       "courses": [
+		"current grade: 1.0",
+		"master thesis on Fully Homomorphic Encryption",
         "Machine Learning",
         "Data Mining",
         "It-Security"
@@ -44,9 +59,10 @@
       "area": "Mathematics",
       "studyType": "Bachelor of Science",
       "startDate": "2017-10-01",
-      "endDate": "2024-10-01",
-      "score": "current: 1.7",
+      "endDate": "2024-04-20",
+      "score": "1.7",
       "courses": [
+		"grade: 1.7",
         "Stochastics",
         "Computational Algebra"
       ]
@@ -58,15 +74,45 @@
       "area": "Mathematics and Computer Science for teachers",
       "studyType": "Master of Education",
       "startDate": "2017-10-01",
-      "endDate": "2024-01-01",
-      "score": "1.5",
+      "endDate": "2023-11-07",
+      "score": "1.4",
       "courses": [
+		"grade: 1.4",
+		"master thesis on Code-based Post Quantum Cryptography, grade: 1.0",
         "Cryptography",
         "Coding Theory"
       ]
-    }
-  
+    },
+{
+      "institution": "Johannes Gutenberg University, Mainz, Germany",
+      "url": "https://startseite.uni-mainz.de/",
+      "area": "Mathematics and Computer Science for teachers",
+      "studyType": "Bachelor of Education",
+      "startDate": "2017-10-01",
+      "endDate": "2022-02-21",
+      "score": "1.6",
+      "courses": [
+		"grade: 1.6",
+        "Statistics",
+        "Game Theory"
+      ]
+    },
+{
+      "institution": "Johannes Gutenberg University, Mainz, Germany",
+      "url": "https://startseite.uni-mainz.de/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2017-10-01",
+      "endDate": "2021-12-08",
+      "score": "1.7",
+      "courses": [
+		"grade: 1.7",
+        "It-Security",
+        "Blockchain"
+      ]
+    }  
     ],
+
   "volunteer": [
     {
         "organization": "Codenight Nieder-Olm",
@@ -99,8 +145,8 @@
 ,
   "awards": [
     {
-      "title": "Deutschlandstipendium (three times)",
-      "date": "2017, 2019, 2022",
+      "title": "Deutschlandstipendium (four times)",
+      "date": "2019/21/22/23",
       "awarder": "Private companies and the German state",
       "summary": "For outstanding study performance."
     },
@@ -123,7 +169,7 @@
     "name": "Programming",
     "level": "Expert",
     "keywords": [
-      "Python", "Julia", "SQL", "R", "Matlab", "C++", "Scala", "Java"
+      "Python", "SQL", "R", "Matlab", "C++", "Julia", "Scala", "Java"
     ]
   }
 ],
@@ -144,7 +190,7 @@
 "interests": [{
     "name": "Sport",
     "keywords": [
-      "soccer", "triathlon", "climbing", "Salsa"
+      "soccer", "triathlon", "climbing", "Rope Skipping"
     ]
   }],
   "references": [],

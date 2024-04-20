@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Student at Johannes Gutenberg University Mainz, +4917661851281, fepaul-job@gmx.de
+subtitle: Student at Johannes Gutenberg University Mainz, +4917661851281, fepaul_job@gmx.de
 
 profile:
   align: right

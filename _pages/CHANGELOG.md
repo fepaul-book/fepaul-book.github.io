@@ -10,11 +10,15 @@ horizontal: false
 
 # CHANGELOG
 
+#### 04/24
+
 - added new news
+- added Code-based cryptography book
 
 
 # ROADMAP
 
-- update cv
-- add personal insights about my life
+- update cv when university is finished (b.sc. math, m.sc. computer science)
+- add book picture and links
 - add more personal projects
+- add personal insights about my life
