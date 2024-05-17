@@ -3,7 +3,7 @@
     "name": "Felix Peter Paul",
     "label": "computer scientist, mathematician",
     "image": "",
-    "email": "fepaul_job@gmx.de",
+    "email": "fepaul7@gmx.de",
     "phone": "+49 176 6185 1281",
     "url": "https://fepaul-book.github.io/",
     "summary": "A German-born computer scientist and mathematician.",
@@ -60,9 +60,9 @@
       "studyType": "Bachelor of Science",
       "startDate": "2017-10-01",
       "endDate": "2024-04-20",
-      "score": "1.7",
+      "score": "1.6",
       "courses": [
-		"grade: 1.7",
+		"grade: 1.6",
         "Stochastics",
         "Computational Algebra"
       ]
