@@ -20,10 +20,13 @@ all finished in first attempt
 number of lectures per subject
 
 
+<!--
+
+
 Neben ersten wichtigen Kontakten bringt ein praktischer Ausflug in die Berufswelt noch mehr: Soft Skills wie Team- und Kommunikationsfähigkeit sowie Belastbarkeit können dabei erworben werden. Die wohl wichtigste fachfremde Eigenschaft für Informatiker ist die Fähigkeit zur Selbstorganisation und zum Zeitmanagement. Ein ausgeprägtes Kunden- und Dienstleistungsbewusstsein sowie mindestens englische Fremdsprachenkenntnisse runden das Profil ab.
 
 Auch die Bereitschaft zur ständigen Weiterbildung ist für Informatikerinnen obligatorisch. Die Informatik befindet sich im ständigen Wandel: Neue Betriebssysteme werden entwickelt, der Hardware-Bereich bekommt in regelmäßigen Abständen Zuwachs und neue Programmiersprachen kommen auf den Markt. Für alle Informatikberufe gilt: Wer Erfolg haben will, für den ist lebenslanges Lernen absolute Pflicht. Eine Möglichkeit dazu ist der Besuch von Weiterbildungsmaßnahmen. Dabei wird nicht nur wichtiges Wissen erworben: Weiterbildungsmaßnahmen zeugen auch von Engagement für den Job. Sie können beispielsweise ein wichtiger Schritt sein, um sich innerhalb des Unternehmens als Führungskraft zu empfehlen. 
-
+-->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
