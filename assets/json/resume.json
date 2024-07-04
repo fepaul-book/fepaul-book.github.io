@@ -8,9 +8,9 @@
     "url": "https://fepaul-book.github.io/",
     "summary": "A German-born computer scientist and mathematician.",
     "location": {
-      "address": "Kaiser-Wilhelm-Ring 68",
-      "postalCode": "55118",
-      "city": "Mainz",
+      "address": "Theodor-Heuss-Straße 36",
+      "postalCode": "55481",
+      "city": "Kirchberg",
       "countryCode": "DE",
       "region": "Rhineland"
     },
@@ -41,7 +41,7 @@
       "url": "https://startseite.uni-mainz.de/",
       "area": "Computer Science",
       "studyType": "Master of Science",
-      "startDate": "2017-10-01",
+      "startDate": "2021-12-01",
       "endDate": "2024-06-30",
       "score": "current: 1.0",
       "courses": [
@@ -52,13 +52,26 @@
         "It-Security"
       ]
     },
-
+{
+      "institution": "Johannes Gutenberg University, Mainz, Germany",
+      "url": "https://startseite.uni-mainz.de/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2017-10-01",
+      "endDate": "2021-12-08",
+      "score": "1.7",
+      "courses": [
+		"grade: 1.7",
+        "It-Security",
+        "Blockchain"
+      ]
+    }  ,
 {
       "institution": "Johannes Gutenberg University, Mainz, Germany",
       "url": "https://startseite.uni-mainz.de/",
       "area": "Mathematics",
       "studyType": "Bachelor of Science",
-      "startDate": "2017-10-01",
+      "startDate": "2018-04-01",
       "endDate": "2024-04-20",
       "score": "1.6",
       "courses": [
@@ -73,7 +86,7 @@
       "url": "https://startseite.uni-mainz.de/",
       "area": "Mathematics and Computer Science for teachers",
       "studyType": "Master of Education",
-      "startDate": "2017-10-01",
+      "startDate": "2022-02-01",
       "endDate": "2023-11-07",
       "score": "1.4",
       "courses": [
@@ -97,18 +110,17 @@
         "Game Theory"
       ]
     },
+
 {
-      "institution": "Johannes Gutenberg University, Mainz, Germany",
-      "url": "https://startseite.uni-mainz.de/",
-      "area": "Computer Science",
-      "studyType": "Bachelor of Science",
-      "startDate": "2017-10-01",
-      "endDate": "2021-12-08",
-      "score": "1.7",
+      "institution": "Herzog-Johann-Gymnasium, Simmern, Germany",
+      "url": "https://www.hjg-sim.de/",
+      "area": "Mathematics, Physics, Geography",
+      "studyType": "High School",
+      "startDate": "2009-04-01",
+      "endDate": "2017-03-30",
+      "score": "1.2",
       "courses": [
-		"grade: 1.7",
-        "It-Security",
-        "Blockchain"
+		"grade: 1.2"
       ]
     }  
     ],
@@ -124,7 +136,7 @@
         "highlights": ["Website Programming (Website of a zoo) ", "Game Programming (Car Race, Ping Pong)", "AI Programming for Tic Tac Toe"]
     },
 {
-        "organization": "JFV Rhein-Hunsrück e.V.",
+        "organization": "JFV Rhein-Hunsrück e.V. (soccer club)",
         "position": "Junior Coach",
         "url": "https://www.lass-uns-fussball-spielen.de/",
         "startDate": "2015-01-01",
@@ -135,7 +147,7 @@
 {
         "organization": "private project of a friend",
         "position": "App Developer",
-        "url": "https://fepaul-book.github.io/ReadMyBook/",
+        "url": "https://fepaul-book.github.io/projects/readmybook/",
         "startDate": "2022-08",
         "endDate": "2022-11",
         "summary": "Development of an Ai-based app with text recognition for reading a children’s book aloud.",
@@ -145,22 +157,32 @@
 ,
   "awards": [
     {
+      "title": "Springer Best Masters",
+      "date": "2024",
+      "awarder": "Springer",
+      "summary": "For an outstanding master thesis about code-based cryptography.",
+		"url": "https://www.springer.com/de/deutsche-publikationen/research/best-masters?gad_source=1&gclid=CjwKCAjwg8qzBhAoEiwAWagLrOCGhapG4-bi7T-nV9gA6NAMXx5XPb_FxlVtVhjBLTGYXMNl6h9PkRoC-hEQAvD_BwE"
+    },
+    {
       "title": "Deutschlandstipendium (four times)",
-      "date": "2019/21/22/23",
+      "date": "2018/20/21/22",
       "awarder": "Private companies and the German state",
-      "summary": "For outstanding study performance."
+      "summary": "For outstanding study performance.",
+	"url": "https://www.deutschlandstipendium.de/deutschlandstipendium/de/home/home_node.html"
     },
 {
       "title": "Prize of the German Mathematical Society",
       "date": "2017-03-06",
       "awarder": "German Mathematical Society",
-      "summary": "For outstanding performance in mathematics in the Abitur (German high school final exams)."
+      "summary": "For outstanding performance in mathematics in the Abitur (German high school final exams).",
+	"url":"https://www.mathematik.de/abiturpreis"
     },
 {
       "title": "Günter-Felke Prize for Computer Modelling",
       "date": "2016-02-19",
       "awarder": "Günter-Felke Foundation",
-      "summary": "For the development of energy-efficient hiking route planning models in mountainous terrain."
+      "summary": "For the development of energy-efficient hiking route planning models in mountainous terrain.",
+"url": "https://www.hjg-sim.de/home/kooperation/guenter-felke-stiftung/"
     }
   ],
   "certificates": [],
@@ -190,7 +212,7 @@
 "interests": [{
     "name": "Sport",
     "keywords": [
-      "soccer", "triathlon", "climbing", "Rope Skipping"
+      "soccer", "triathlon", "climbing", "beach volleyball"
     ]
   }],
   "references": [],
