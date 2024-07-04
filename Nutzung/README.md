@@ -13,3 +13,5 @@ assets/json/resume
 see https://jsonresume.org/schema/ for the available fields
 
 
+lösche ganzes repository und lade nochmal hoch damit der verlauf vom buch nicht mehr drin ist
+
