@@ -18,8 +18,9 @@ horizontal: false
 
 # ROADMAP
 
-- update FHE - include promoting text of atruvia in main page of fhe
-- add study information 
+- update FHE
+- add study information
+- include Qplus in cv under volunteer 
 - update cv when university is finished (b.sc. math, m.sc. computer science)
 - add book picture and links
 - add book about fhe 

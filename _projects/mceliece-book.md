@@ -7,7 +7,13 @@ importance: 2
 category: programming
 ---
 
-Discover the future of cryptography with "Goppa Codes and the McEliece Cryptosystem." This book provides a fundamental and detailed introduction to one of the most secure cryptosystems of our time—the McEliece Cryptosystem. Originally developed in 1978, it robustly withstands the most advanced threats posed by quantum computers and sets new standards in post-quantum cryptography. With a comprehensive analysis of Goppa Codes and an understandable presentation of both the theory and practical implementation, this work is an indispensable companion for anyone interested in the next generation of data security. In addition to deep technical insights, the book provides access to an implementation that allows readers to explore the concepts interactively. A must-have for IT security professionals, academics, and anyone who wants to develop a deep understanding of the mechanisms of quantum-safe encryption.
+Discover the future of cryptography with "Goppa Codes and the McEliece Cryptosystem." This book provides a fundamental and detailed introduction to one of the most secure cryptosystems of our time—the McEliece Cryptosystem. 
+
+Originally developed in 1978, it robustly withstands the most advanced threats posed by quantum computers and sets new standards in post-quantum cryptography. 
+With a comprehensive analysis of Goppa Codes and an understandable presentation of both the theory and practical implementation, this work is an indispensable companion for anyone interested in the next generation of data security. 
+In addition to deep technical insights, the book provides access to an implementation that allows readers to explore the concepts interactively. 
+
+A must-have for IT security professionals, academics, and anyone who wants to develop a deep understanding of the mechanisms of quantum-safe encryption.
 
 
 <div class="row">
